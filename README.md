@@ -2,7 +2,7 @@
 
 ### Curiosa, obsesiva y copada · Ingeniería en Computación · Tecnología para el campo 🌾
 
-A los 16 arranqué en gastronomía y mi jefe tenía una frase: *"dale un laburo difícil a un vago y va a encontrar la forma fácil de hacerlo"*. Vaga nunca fui, pero sí me la rebuscaba siempre: picaba cebolla de más y la freezaba para tener stock, armé respuestas automáticas en WhatsApp para los clientes y un inventario para saber qué comprar sin recorrer todas las heladeras. No sabía que eso se llamaba **optimizar**; para mí era laburar mejor.
+A los 16 arranqué en gastronomía y mi jefe tenía una frase: *"dale un laburo difícil a un vago y va a encontrar la forma fácil de hacerlo"*. Vaga nunca fui, pero sí me la rebuscaba siempre: picaba verduras de más y la freezaba para tener stock, armé respuestas automáticas en WhatsApp para los clientes y un inventario para saber qué comprar sin recorrer todas las heladeras. No sabía que eso se llamaba **optimizar**; para mí era laburar mejor.
 
 Después pasé a seguros y asistencia, y seguí igual. En el Excel compartido le asigné un color a cada compañero para no pisarnos. En una migración de sistemas hice de QA y descubrí que me encanta encontrar errores. En Iké formé parte del squad que migró el sistema de trabajo, y varias de mis ideas se implementaron (algunas hasta cambiaron el código). En el camino sumé **dos certificados en ciberseguridad**, todo porque una compañera se comió un malware 🙃
 
