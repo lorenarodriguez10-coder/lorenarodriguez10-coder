@@ -49,7 +49,9 @@ Lo que más me costó fue la plantilla donde los chicos del taller cargan los ma
 
 ## 🌾 El problema que me quita el sueño
 
-Las tormentas solares y lo que le hacen al GPS de los tractores autónomos, que terminan haciendo cualquier cosa en el lote. Todavía no sé cómo, pero algún día quiero ser parte de la solución.
+Las tormentas solares y lo que pueden hacerle al GPS/GNSS de los tractores autónomos: un poco de actividad solar y de repente el tractor decide que el sur es para el otro lado.
+
+Todavía no sé cómo, pero algún día quiero ser parte de la solución.
 
 ---
 
