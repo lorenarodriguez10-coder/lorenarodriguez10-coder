@@ -15,7 +15,7 @@ Hoy estudio **Ingeniería en Computación en la UNTREF** con una idea fija: siem
 - 🔍 **Curiosa:** necesito entender cómo funciona todo por dentro. Y sí, leo la documentación.
 - 📊 **Obsesiva:** tengo un dashboard en Excel con todas las materias de la carrera que se actualiza solo cuando apruebo una. También tengo un Excel para las compras del súper.
 - 🐞 **Cazadora de bugs:** encontrar el error rápido es mi parte favorita... salvo con el bug que aparece en mi cerebro cuando rindo matemática.
-- 💬 **Copada (y habladora, muy habladora):** me llevo bien trabajando sola y en equipo, y cuando llevo un problema, llevo también una propuesta.
+- 💬 **Copada (y habladora, muy habladora):** me llevo bien trabajando sola y en equipo, y cuando llevo un problema, llevo también una propuesta (o varias, me cuesta elegir)
 - 🗂️ **En proceso:** tener todo bajo control no significa ser organizada, así que cada repo tiene su TODO con consigna, tareas y bitácora.
 
 ---
