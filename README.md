@@ -1,5 +1,5 @@
 
-# Hola, soy Lorena 👋
+# Hola, soy Lore 👋
 
 ### Ingeniería en Computación · Desarrollo de software · Tecnología aplicada al campo 🌾
 
