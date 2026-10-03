@@ -73,9 +73,9 @@ Todavía no sé cómo, pero algún día quiero ser parte de la solución.
 
 ## ☕ Fuera del código
 
-Leo mucho: la poesía y literatura medio depresiva de Dostoievski, Bukowski, Camus y Kafka, la forma de ver el mundo de Cervantes y las distopías de Orwell. Ando en bici y hablo. Mucho. Dicen que irradio geminismo, aunque creo que mi ascendente en virgo las mantiene a controlada (por ahora). Capaz por eso mi villano favorito de Marvel es Loki 💚
+Leo mucho: la poesía y literatura medio depresiva de Dostoievski, Bukowski, Camus y Kafka, la forma de ver el mundo de Cervantes y las distopías de Orwell. Ando en bici y hablo. Mucho. Dicen que irradio geminismo, aunque creo que mi ascendente en virgo me mantiene a controlada (por ahora). Capaz por eso mi villano favorito de Marvel es Loki 💚
 
-Soy hincha orgullosa de **Boca Juniors** 💙💛, amo a Messi y soy argentina, carajo 🇦🇷
+Soy hincha orgullosa de **Boca Juniors** 💙💛, amo a Messi y soy argentina, carajo 💙🤍💙
 
 Y vivo con Gregorio, un gato gordo 🐈
 
